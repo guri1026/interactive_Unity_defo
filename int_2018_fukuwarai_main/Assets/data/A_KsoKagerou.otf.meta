@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 66a61b97e20d84bfdac5385b4cd46cec
+timeCreated: 1519626876
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A_KsoKagerou
+  fontNames:
+  - A_KsoKagerou
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
